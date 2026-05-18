@@ -1,4 +1,4 @@
-# GEMINI.md
+# SKILLS.md
 
 # Project Overview
 
